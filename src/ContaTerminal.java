@@ -28,6 +28,7 @@ public class ContaTerminal {
         /*TODO: Conhecer e importar a classe Scanner
         Exibir as mensagens para nosso usuário
         Exibir a mensagem conta criada
+
          */
 
         Scanner scan = new Scanner(System.in);
